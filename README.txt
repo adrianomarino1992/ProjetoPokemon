@@ -1,1 +1,3 @@
-Extrai os arquivos de "Programa.rar" e clique em Pokemon.exe para executar o programa
+! CERTIFIQUE QUE O COMPUTADOR POSSUA .NETFRAMEWORK > 4.7 INSTALADO !
+
+EXECUTE O Pokemon.exe DENTRO DA PASTA PROGRAMA !

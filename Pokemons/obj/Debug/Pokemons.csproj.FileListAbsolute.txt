@@ -7,5 +7,4 @@ C:\Users\Camila\Desktop\ProjetoPokemon\Pokemons\Pokemons\obj\Debug\Pokemons.cspr
 C:\Users\Camila\Desktop\ProjetoPokemon\Pokemons\Pokemons\obj\Debug\Pokemons.csproj.CoreCompileInputs.cache
 C:\Users\Camila\Desktop\ProjetoPokemon\Pokemons\Pokemons\obj\Debug\Pokemons.exe
 C:\Users\Camila\Desktop\ProjetoPokemon\Pokemons\Pokemons\obj\Debug\Pokemons.pdb
-C:\Users\Camila\Desktop\ProjetoPokemon\Pokemons\Pokemons\obj\Debug\Pokemons.csprojAssemblyReference.cache
 C:\Users\Camila\Desktop\ProjetoPokemon\Pokemons\Pokemons\obj\Debug\Pokemons.CustomControls.TelaPokemonDetalhes.resources
